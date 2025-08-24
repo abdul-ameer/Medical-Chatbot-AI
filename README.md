@@ -1,5 +1,7 @@
 # Medical-Chatbot-Project
 
+<img width="1190" height="867" alt="Screenshot from 2025-08-23 17-47-40" src="https://github.com/user-attachments/assets/8fa9f310-3424-439c-8207-a5a2f3237c0d" />
+
 
 
 # How to run?
